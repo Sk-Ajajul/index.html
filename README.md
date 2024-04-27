@@ -1,3 +1,3 @@
-# index.html
+CWG Practice 
 first repo
 
